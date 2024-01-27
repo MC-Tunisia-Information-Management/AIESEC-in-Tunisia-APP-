@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="205.578 134 138.157 90.793" xmlns="http://www.w3.org/2000/svg">
+  <rect style="fill: rgb(210, 219, 237); fill-opacity: 0.3;" x="205.579" y="167" width="138.135" height="24.793" rx="5" ry="5"/>
+  <path style="fill: none; stroke-width: 2px; stroke: rgb(210, 219, 237);" d="M 47.514 42.467 H 51.717 V 58.518 A 2.102 4.442 0 0 1 49.616 62.96 H 49.616 A 2.102 4.558 0 0 1 47.514 58.402 V 42.467 Z" transform="matrix(0.836086, -0.548598, 0.57015, 0.821945, 219.284763, 180.717212)"/>
+  <ellipse style="fill: none; stroke-width: 3px; stroke: rgb(210, 219, 237);" cx="335.814" cy="184.246" rx="11.992" ry="11.569" transform="matrix(0.981627, -0.190809, 0.190809, 0.981627, -86.216195, 61.905427)"/>
+  <rect style="fill: rgb(210, 219, 237); fill-opacity: 0.3;" x="205.578" y="200" width="138.135" height="24.793" rx="5" ry="5"/>
+  <rect style="fill: rgb(210, 219, 237); fill-opacity: 0.3;" x="205.6" y="134" width="138.135" height="24.793" rx="5" ry="5"/>
+</svg>

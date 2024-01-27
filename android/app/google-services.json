@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617166869034",
+    "project_id": "aieseccore-62ad3",
+    "storage_bucket": "aieseccore-62ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617166869034:android:c1ed6dc8fa6a693ee7a953",
+        "android_client_info": {
+          "package_name": "com.example.aiesec_core"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617166869034-6g2t7r3npk702renqjrm7hfneirjmpji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYOHGEMly0jGSl0g3fgnG1Druh2Ld0r2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617166869034-6g2t7r3npk702renqjrm7hfneirjmpji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
